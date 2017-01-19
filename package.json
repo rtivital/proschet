@@ -1,0 +1,22 @@
+{
+  "name": "proschet",
+  "version": "1.0.0",
+  "description": "Russian declensions made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtivital/proschet.git"
+  },
+  "keywords": [
+    "russian"
+  ],
+  "author": "Vitaly Rtishchev <rtivital@gmail.com> (http://github.com/rtivital)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtivital/proschet/issues"
+  },
+  "homepage": "https://github.com/rtivital/proschet#readme"
+}
