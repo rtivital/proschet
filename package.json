@@ -18,5 +18,17 @@
   "bugs": {
     "url": "https://github.com/rtivital/proschet/issues"
   },
-  "homepage": "https://github.com/rtivital/proschet#readme"
+  "homepage": "https://github.com/rtivital/proschet#readme",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.18.0",
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "tap-spec": "^4.1.1",
+    "webpack": "^1.14.0"
+  }
 }
