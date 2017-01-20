@@ -4,7 +4,7 @@
 Микробиблиотека для склонения слов в русском языке
 
 ### Установка
-`npm install proschet` или `yarn add proschet`
+`npm install --save proschet` или `yarn add proschet`
 
 ### Использование
 ```js
