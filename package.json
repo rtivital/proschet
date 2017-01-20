@@ -2,7 +2,7 @@
   "name": "proschet",
   "version": "1.0.0",
   "description": "Russian declensions made easy",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "pretest": "npm run build",
     "test": "tape --require babel-register tests/*.js | tap-spec",
