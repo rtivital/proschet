@@ -8,7 +8,7 @@
     "test": "tape --require babel-register tests/*.js | tap-spec",
     "prebuild": "npm run lint",
     "build": "webpack",
-    "prepublish": "npm test",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
