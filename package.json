@@ -16,7 +16,8 @@
     "url": "git+https://github.com/rtivital/proschet.git"
   },
   "keywords": [
-    "russian"
+    "russian",
+    "grammar"
   ],
   "author": "Vitaly Rtishchev <rtivital@gmail.com> (http://github.com/rtivital)",
   "license": "MIT",
