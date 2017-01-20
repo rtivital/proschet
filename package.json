@@ -8,6 +8,7 @@
     "test": "tape --require babel-register tests/*.js | tap-spec",
     "prebuild": "npm run lint",
     "build": "webpack",
+    "lint": "eslint src",
     "prepublish": "npm test"
   },
   "repository": {
