@@ -1,6 +1,7 @@
 # Proschet
 [![Build Status](https://travis-ci.org/rtivital/proschet.svg?branch=master)](https://travis-ci.org/rtivital/proschet)
 [![Dependency Status](https://dependencyci.com/github/rtivital/proschet/badge)](https://dependencyci.com/github/rtivital/proschet)
+[![npm version](https://badge.fury.io/js/proschet.svg)](https://badge.fury.io/js/proschet)
 
 Микробиблиотека для склонения слов в русском языке
 
