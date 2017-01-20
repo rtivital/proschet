@@ -4,7 +4,10 @@
   "description": "Russian declensions made easy",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "npm run build",
+    "test": "tape --require babel-register tests/*.js | tap-spec",
+    "lint": "eslint src",
+    "prebuild": "npm run lint",
     "build": "webpack"
   },
   "repository": {
@@ -30,6 +33,7 @@
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
     "tap-spec": "^4.1.1",
+    "tape": "^4.6.3",
     "webpack": "^1.14.0"
   }
 }
