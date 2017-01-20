@@ -6,9 +6,9 @@
   "scripts": {
     "pretest": "npm run build",
     "test": "tape --require babel-register tests/*.js | tap-spec",
-    "lint": "eslint src",
     "prebuild": "npm run lint",
-    "build": "webpack"
+    "build": "webpack",
+    "prepublish": "npm test",
   },
   "repository": {
     "type": "git",
