@@ -1,8 +1,12 @@
 # Proschet
 [![Build Status](https://travis-ci.org/rtivital/proschet.svg?branch=master)](https://travis-ci.org/rtivital/proschet)
 
-Микробиблиотека для склонения слов в русском языке.
+Микробиблиотека для склонения слов в русском языке
 
+### Установка
+`npm install proschet` или `yarn add proschet`
+
+### Использование
 ```js
 import proschet from 'proschet';
 
