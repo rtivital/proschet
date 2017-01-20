@@ -1,4 +1,6 @@
 # Proschet
+[![Build Status](https://travis-ci.org/rtivital/proschet.svg?branch=master)](https://travis-ci.org/rtivital/proschet)
+
 Микробиблиотека для склонения слов в русском языке.
 
 ```js
